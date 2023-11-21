@@ -1,0 +1,5 @@
+desktop.ini
+*.sqlite
+
+env_flaskr/
+__pycache__/
